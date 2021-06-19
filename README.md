@@ -12,6 +12,6 @@ How to run the Trip Form Project Using PHP and MySQL
 
 5.Create a database with name trip
 
-6.Open  (http://localhost/your htdoc's file name)
+6.Open  (http://localhost/ your htdoc's file name)
 
 7.Import trip.sql file (given inside the zip package with .sql file extension)
